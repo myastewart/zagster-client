@@ -4,3 +4,11 @@ body {
   h2 {
       font-size: 32pt
   }
+
+.chartContainer {
+    border: 3px dashed;
+    height: 700px;
+    width: 100%;
+    margin: auto
+
+}
